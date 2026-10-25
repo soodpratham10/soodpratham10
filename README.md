@@ -1,4 +1,4 @@
-# Hey, I'm Pratham 👋
+# Hey, I'm Pratham! 👋
 
 ### Actuarial Math & Statistics @ University of Manitoba · Winnipeg, MB
 
