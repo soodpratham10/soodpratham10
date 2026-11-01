@@ -25,7 +25,7 @@ Life contingencies, why your premium is what it is, or the odds you outlive your
 
 ## 💻 Toolkit
 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346) ![Shiny](https://img.shields.io/badge/Shiny-447099) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-0766D1?style=for-the-badge&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346) ![Shiny](https://img.shields.io/badge/Shiny-447099) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📊 GitHub stats
 
