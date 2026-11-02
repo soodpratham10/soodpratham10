@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="202.79"
+          width="184.37"
           height="8"
           fill="#198CE7"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="202.79"
+          x="184.37"
           y="0"
-          width="38.28"
+          width="58.63"
           height="8"
           fill="#B34936"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.07"
+          x="243"
           y="0"
-          width="18.939999999999998"
+          width="16.990000000000002"
           height="8"
           fill="#e38c00"
         />
@@ -169,21 +169,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#198CE7" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        R 81.11%
+        R 73.75%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#B34936" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SAS 15.31%
+        SAS 23.45%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e38c00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SQL 3.58%
+        SQL 2.80%
       </text>
     </g>
   </g></g>
