@@ -8,10 +8,10 @@
 
 | Project | What it is | Try&nbsp;it |
 |---|---|---|
-| 🎲 [**The Odds of a Lifetime**](https://github.com/soodpratham10/odds-of-a-lifetime) | An actuarial engine played as a game: run an insurance company for 20 years. Multiple state, multiple decrement and joint-life models, reserves and solvency | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/odds-of-a-lifetime/) |
-| ⚓ [**Matching the Promise**](https://github.com/soodpratham10/matching-the-promise) | Asset-liability matching for a closed annuity block: cash-flow matching, Redington and full immunization, key rate durations and 20-year rate storms | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/matching-the-promise/) |
-| 🖋 [**Pricing the Inevitable**](https://github.com/soodpratham10/pricing-the-inevitable) | Risk-based pricing of 19 insurance and annuity products as a tested R package, with a SQL rate book, an Excel rate calculator, a Quarto memo and a Python cross-check | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/pricing-the-inevitable/) |
-| 🛡 [**Capital Adequacy Stress Testing**](https://github.com/soodpratham10/capital-adequacy-stress-testing) | *In progress:* capital adequacy for a fictional public auto insurer in SAS: MCT, worst-year simulation, stress testing and reinsurance | 🚧 |
+| 🎲 [**The Odds of a Lifetime**](https://github.com/soodpratham10/odds-of-a-lifetime) | An actuarial engine played as a game: run an insurance company for 20 years. Multiple state, multiple decrement and joint-life models, reserves and solvency<br>**Built with:** R · SQL · Excel · Shiny | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/odds-of-a-lifetime/) |
+| ⚓ [**Matching the Promise**](https://github.com/soodpratham10/matching-the-promise) | Asset-liability matching for a closed annuity block: cash-flow matching, Redington and full immunization, key rate durations and 20-year rate storms<br>**Built with:** R · SQL · Excel · Shiny | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/matching-the-promise/) |
+| 🖋 [**Pricing the Inevitable**](https://github.com/soodpratham10/pricing-the-inevitable) | Risk-based pricing of 19 insurance and annuity products as a tested R package, with a SQL rate book, an Excel rate calculator, a Quarto memo and a Python cross-check<br>**Built with:** R · SQL · Excel · Python · Quarto · Shiny · GitHub Actions | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/pricing-the-inevitable/) |
+| 🛡 [**Capital Adequacy Stress Testing**](https://github.com/soodpratham10/capital-adequacy-stress-testing) | *In progress:* capital adequacy for a fictional public auto insurer in SAS: MCT, worst-year simulation, stress testing and reinsurance<br>**Built with:** SAS | 🚧 |
 
 ## 💫 About me
 
@@ -40,6 +40,8 @@ Life contingencies, why your premium is what it is, or the odds you outlive your
 
 ![GitHub stats](./profile/stats.svg)
 ![Top languages](./profile/top-langs.svg)
+
+*Excel workbooks aren't counted by GitHub's language stats; every project above also has an Excel rebuild or calculator.*
 
 ## 🌐 Find me
 
