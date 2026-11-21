@@ -9,8 +9,9 @@
 | Project | What it is | Try&nbsp;it |
 |---|---|---|
 | 🎲 [**The Odds of a Lifetime**](https://github.com/soodpratham10/odds-of-a-lifetime) | An actuarial engine played as a game: run an insurance company for 20 years. Multiple state, multiple decrement and joint-life models, reserves and solvency<br>**Built with:** R · SQL · Excel · Shiny | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/odds-of-a-lifetime/) |
-| ⚓ [**Matching the Promise**](https://github.com/soodpratham10/matching-the-promise) | Asset-liability matching for a closed annuity block: cash-flow matching, Redington and full immunization, key rate durations and 20-year rate storms<br>**Built with:** R · SQL · Excel · Shiny | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/matching-the-promise/) |
+| 🌌 [**One Life, 1,000 Times**](https://github.com/soodpratham10/one-life-1000-times) | A life simulator on real Canadian data: answer nine questions and an actuarial model lives your life forward 1,000 times, then reads you the cards. Statistics Canada life tables, CPP mortality improvement and multi-state life events, cross-checked in R and Excel VBA<br>**Built with:** Python · JavaScript · R · Excel VBA · GitHub Actions | [▶&nbsp;Live](https://soodpratham10.github.io/one-life-1000-times/) |
 | 🖋 [**Pricing the Inevitable**](https://github.com/soodpratham10/pricing-the-inevitable) | Risk-based pricing of 19 insurance and annuity products as a tested R package, with a SQL rate book, an Excel rate calculator, a Quarto memo and a Python cross-check<br>**Built with:** R · SQL · Excel · Python · Quarto · Shiny · GitHub Actions | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/pricing-the-inevitable/) |
+| ⚓ [**Matching the Promise**](https://github.com/soodpratham10/matching-the-promise) | Asset-liability matching for a closed annuity block: cash-flow matching, Redington and full immunization, key rate durations and 20-year rate storms<br>**Built with:** R · SQL · Excel · Shiny | [▶&nbsp;Live](https://soodpratham10.shinyapps.io/matching-the-promise/) |
 | 🛡 [**Capital Adequacy Stress Testing**](https://github.com/soodpratham10/capital-adequacy-stress-testing) | *In progress:* capital adequacy for a fictional public auto insurer in SAS: MCT, worst-year simulation, stress testing and reinsurance<br>**Built with:** SAS | 🚧 |
 
 ## 💫 About me
@@ -34,7 +35,7 @@ Life contingencies, why your premium is what it is, or the odds you outlive your
 
 ## 💻 Toolkit
 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-0766D1) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-447099) ![Quarto](https://img.shields.io/badge/Quarto-75AADB) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-0766D1) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346) ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Shiny](https://img.shields.io/badge/Shiny-447099) ![Quarto](https://img.shields.io/badge/Quarto-75AADB) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ## 📊 GitHub stats
 
